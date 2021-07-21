@@ -17,6 +17,10 @@
     width: 100px;
     cursor: pointer;
 }
+
+.top.p {
+    color: rgb(88, 18, 18);
+}
 .navbar {
     width:85%;
     height:15%;
