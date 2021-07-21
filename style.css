@@ -18,8 +18,11 @@
     cursor: pointer;
 }
 
-.top.p {
-    color: rgb(88, 18, 18);
+.top-p {
+    color: rgb(240, 12, 12);
+    font-size:20px;
+    font-family: Arial;
+   font-weight: 600;
 }
 .navbar {
     width:85%;
